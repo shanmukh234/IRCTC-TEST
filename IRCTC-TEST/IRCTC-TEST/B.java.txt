@@ -1,1 +1,3 @@
 shanmukh.srinivas143@gmail.com
+
+adding test line to test to squash last N commits in B.java
